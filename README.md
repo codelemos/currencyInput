@@ -1,4 +1,4 @@
-# currencyInput
+# Currency Input
 
 This is a function that changes an input to decimal format. It's very simple. You can edit it as you like and need
 
