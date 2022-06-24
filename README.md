@@ -23,7 +23,7 @@ function foo(props){
 }
 ```
 
-### React
+### Vue
 If you are using vue you can import this function and manipulate the value in 'watch'.
 ```
 import {toDecimal} from './currencyInput'
